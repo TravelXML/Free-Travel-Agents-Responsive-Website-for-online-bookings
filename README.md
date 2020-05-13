@@ -1,4 +1,4 @@
-# Free-Travel-Agent-Responsive-Website-for-online-bookings
+# Free-Travel-Agents-Responsive-Website-for-online-bookings
 Travel Agent Premium Responsive Template for Hotels, Flights, Packages
 
 Responsive Website: it will work on all sort of electronics devices
